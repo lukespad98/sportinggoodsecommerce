@@ -29,11 +29,11 @@ export const inventory: InventoryProduct[] = [
     description: `Weekends away or trips to the gym? Throw what you need in this small adidas duffel bag and go. It's made with durable fabric and a water-resistant base, so you can sling it on buses or plop it on soggy fields. Add your team logo on the ends and show the world who you play for (or root for).`,
     price: 3999, 
     image:
-      "@/public/products/adidas-bag-1.jpg",
+      "https://ibb.co/3Y2HSsT",
     images: [
-      "@/public/products/adidas-bag-1.jpg",
-      "@/public/products/adidas-bag-back-1.jpg",
-      "@/public/products/adidas-bag-side-1.jpg",
+      "https://ibb.co/3Y2HSsT",
+      "https://ibb.co/7Qy708H",
+      "https://ibb.co/KG8DRws",
     ],
     sizes: ["one-size"],
     categories: ["bags"],
@@ -47,10 +47,10 @@ export const inventory: InventoryProduct[] = [
     description: `Born for the beautiful game. Its slim, streamlined fit, smooth fabric and moisture-absorbing AEROREADY make this adidas Tiro 23 League jersey your perfect teammate when you want to dominate the soccer pitch on a Sunday morning. The embroidered 3 Bar Logo and 3-Stripes tape show you mean business even before you cross that white line.`,
     price: 9800,
     image:
-      "@/public/products/adidas-shirt-1.jpg",
+      "https://ibb.co/Wvqqz0Z",
     images: [
-      "@/public/products/adidas-shirt-1.jpg",
-      "@/public/products/adidas-shirt-2.webp",
+      "https://ibb.co/Wvqqz0Z",
+      "https://ibb.co/gRgqgMh",
     ],
     sizes: ['s', 'm', 'l', 'xl'],
     categories: ["shirts"],
@@ -64,10 +64,10 @@ export const inventory: InventoryProduct[] = [
     description: `On the pitch, it's you and your team against the world. So adidas created the Squadra 21 range to help you win in style. These soccer shorts keep you dry with moisture-absorbing AEROREADY. The fabric is made from recycled materials, a small step towards the goal of ending plastic waste.`,
     price: 5599,
     image:
-      "@/public/products/adidas-shorts-1.webp",
+      "https://ibb.co/ncJncj6",
     images: [
-      "@/public/products/adidas-shorts-1.webp",
-      "@/public/products/adidas-shorts-2.webp",
+      "https://ibb.co/ncJncj6",
+      "https://ibb.co/wgt5wrX",
     ],
     sizes: ["xs", "s", "m", "l", "xl"],
     categories: ["shorts"],
@@ -81,10 +81,10 @@ export const inventory: InventoryProduct[] = [
     description: `Icons collide with the 2023/24 PSG Third Shirt. One of the most iconic clubs in the world meets one of the most recognisable patterns in streetwear—Jordan elephant print—to create a shirt that transcends the game. On the inside, you'll find a hidden Paris logo with the Jumpman design included in the middle. Our Stadium collection pairs replica design details with sweat-wicking technology to give you a game-ready look inspired by Les Parisiens.`,
     price: 6199,
     image:
-      "@/public/products/nike-shirt-1.webp",
+      "https://ibb.co/6FZbzV0",
     images: [
-      "@/public/products/nike-shirt-1.webp",
-      "@/public/products/nike-shirt-2.webp",
+      "https://ibb.co/6FZbzV0",
+      "https://ibb.co/hm9BDWD",
     ],
     sizes: ["s", "m", "l"],
     categories: ["shirts"],
@@ -98,11 +98,11 @@ export const inventory: InventoryProduct[] = [
     description: `The Nike Brasilia Duffel Bag keeps all your training gear—and more—at hand. A side compartment stores shoes separately, while inner and outer pockets help you stay organised. Use it for a trip to the gym or away for the weekend. We've got you covered. This product is made from at least 65% recycled polyester fibres.`,
     price: 7999,
     image:
-      "@/public/products/nike-bag-1.jpg",
+      "https://ibb.co/QjD2SvV",
     images: [
-      "@/public/products/nike-bag-1.jpg",
-      "@/public/products/nike-bag-back-1.jpg",
-      "@/public/products/nike-bag-side-1.jpg",
+      "https://ibb.co/QjD2SvV",
+      "https://ibb.co/0YzVQF7",
+      "https://ibb.co/4FyLKsZ",
     ],
     sizes: ["one-size"],
     categories: ["bags"],
@@ -116,10 +116,10 @@ export const inventory: InventoryProduct[] = [
     description: `This sporty cap gets a street-chic makeover with sleek lines and bold branding.`,
     price: 2000,
     image:
-      "@/public/products/puma-cap-1.png",
+      "https://ibb.co/rbhm365",
     images: [
-      "@/public/products/puma-cap-1.png",
-      "@/public/products/puma-cap-back-1.png",
+      "https://ibb.co/rbhm365",
+      "https://ibb.co/YhZr8CV",
     ],
     sizes: ["one-size"],
     categories: ["hats"],
@@ -133,10 +133,10 @@ export const inventory: InventoryProduct[] = [
     description: `Cityzens, emulate your matchday heroes with the Man City Authentic Home Jersey. Its the same version Grealish, Aleixandri, and co. wear on the pitch. ULTRAWEAVE performance tech makes it the lightest jersey weve ever made, so you can rep your team with ease throughout the 90 minutes and the 24 hours.`,
     price: 11000,
     image:
-      "@/public/products/puma-shirt-1.png",
+      "https://ibb.co/KmwzSnV",
     images: [
-      "@/public/products/puma-shirt-1.png",
-      "@/public/products/puma-shirt-2.png",
+      "https://ibb.co/KmwzSnV",
+      "https://ibb.co/gzsgpDs",
     ],
     sizes: ["xs", "s", "m", "l", "xl"],
     categories: ["shirts"],
@@ -150,9 +150,9 @@ export const inventory: InventoryProduct[] = [
     description: `There's a reason that PUMA socks have inspired obsessive behavior the world over. They're soft. Comfortable. You can`,
     price: 1399,
     image:
-      "@/public/products/puma-socks-1.png",
+      "https://ibb.co/6FtZPSF",
     images: [
-      "@/public/products/puma-socks-1.png",
+      "https://ibb.co/6FtZPSF",
     ],
     sizes: ["one-size"],
     categories: ["socks"],
@@ -166,11 +166,11 @@ export const inventory: InventoryProduct[] = [
     description: `Featuring a sleek design, this spacious duffel will carry all your essentials through the day.`,
     price: 5999,
     image:
-      "@/public/products/puma-bag-1.png",
+      "https://ibb.co/JqMvq5q",
     images: [
-      "@/public/products/puma-bag-1.png",
-      "@/public/products/puma-bag-back-1.png",
-      "@/public/products/puma-bag-side-1.png",
+      "https://ibb.co/JqMvq5q",
+      "https://ibb.co/pjLhmrf",
+      "https://ibb.co/QDNq5R5",
     ],
     sizes: ["one-size"],
     categories: ["bags"],
