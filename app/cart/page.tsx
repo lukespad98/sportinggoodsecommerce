@@ -14,6 +14,7 @@ export default function Page() {
             <h2 id="cart-heading" className="sr-only">
               Items in your shopping cart
             </h2>
+            {/* @ts-expect-error Server Component */}
             <CartItems />
           </section>
           <CartSummary />
